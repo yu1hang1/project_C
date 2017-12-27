@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ¶àÆµÐÅºÅ·¢ÉúÆ÷
 ---
 
@@ -10,32 +9,3 @@
 ---
 
 ##ËÄÖÖ²¨ÐÎDEMO
-
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/1.PNG)
-
----
-
-###×¢²áÒ³Ãæ
-
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/2.PNG)
-
----
-
-###µÇÂ¼Ò³Ãæ
-
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/3.PNG)
-
----
-
-###TopicsÖ÷Ò³
-
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/4.PNG)
-
----
-
-###EntryÖ÷Ò³
-
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/5.PNG)
-=======
-# å¤šé¢‘ä¿¡å·å‘ç”Ÿå™¨
->>>>>>> e0864467c13ce5c5c101cfb531f05426cfcd611d
