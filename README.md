@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ¶àÆµÐÅºÅ·¢ÉúÆ÷
 ---
 
@@ -35,3 +36,6 @@
 ###EntryÖ÷Ò³
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/5.PNG)
+=======
+# å¤šé¢‘ä¿¡å·å‘ç”Ÿå™¨
+>>>>>>> e0864467c13ce5c5c101cfb531f05426cfcd611d
