@@ -20,22 +20,22 @@
 
 ###ÕýÏÒ²¨
 
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/SineWave.jpg)
+![avatar](https://github.com/yu1hang1/project_C/blob/master/SineWave.jpg)
 
 ---
 
 ###Èý½Ç²¨
 
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/3.PNG)
+![avatar](https://github.com/yu1hang1/project_C/blob/master/TrigonometricWave.jpg)
 
 ---
 
 ###¾â³Ý²¨
 
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/4.PNG)
+![avatar](https://github.com/yu1hang1/project_C/blob/master/SawtoothWave.jpg)
 
 ---
 
 ###Âö³å
 
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/5.PNG)
+![avatar](https://github.com/yu1hang1/project_C/blob/master/pulse.jpg)
