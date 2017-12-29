@@ -20,7 +20,7 @@
 
 ###ÕıÏÒ²¨
 
-![avatar](https://github.com/yu1hang1/Handy_note/blob/master/2.PNG)
+![avatar](https://github.com/yu1hang1/Handy_note/blob/master/SineWave.jpg)
 
 ---
 
