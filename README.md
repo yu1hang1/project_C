@@ -39,5 +39,3 @@
 ###Âö³å
 
 ![avatar](https://github.com/yu1hang1/project_C/blob/master/pulse.jpg)
-
----
