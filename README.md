@@ -10,9 +10,6 @@
 ---
 
 # 四种波形DEMO
-
----
-
 ## 1.初始化
 
 ![avatar](https://github.com/yu1hang1/project_C/blob/master/Init.jpg
